@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bienvenido al Git Hub para las clases de DAM 👋
+Soy Ingeniero de Software dedicado a la docencia de Formación Profesional desde hace más de 14 años.
+
 
 <!--
 **AngelVidal/AngelVidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
